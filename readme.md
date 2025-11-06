@@ -5,19 +5,25 @@
 201
 197
 -4
+Munirka (Avdija) Iseni 
+1005442415
 LIVADHET E GJATA
 Oborr           120
 Shtëpi-Ndërtese 81
 Gjithsej:       201
+LRP: Nr. 1714/2025
+Nr.Ref: 644/2025
 
 01042-58
-509
 505
--4
+509
++4
 Daut (Sahit) Hoxha 
 1018290983
 LIVADHET E GJATA
 Livadh (1)
+LRP: Nr. 1713/2025
+Nr.Ref: 643/2025
 
 03539-0
 1959
@@ -25,14 +31,17 @@ Livadh (1)
 +0
 LIVADHET E GJATA
 Livadh (1)
-Iseni (Avdija) Munirka 
-1005442415
+Barije (Smail) Sahiti 
+1012289452
+LRP: Nr. 1711/2025
+Nr.Ref: 642/2025
 
 
 01042-53	197	    197/2665	Iseni (Avdija) Munirka 
 01042-58	509	    509/2665	Daut (Sahit) Hoxha 
 03539-0	    1959	1959/2665	Barije (Smail) Sahiti 
     	    2665	2665
+03586-0
 
 
 197/2665	Iseni (Avdija) Munirka 
@@ -42,12 +51,20 @@ Iseni (Avdija) Munirka
 
 
 ```
+# analiza e sip
+
 | nrParc | SipTxt | SipGraph | Dif |
 | --------------- | --------------- | --------------- | --------------- |
 | 01042-53 | 201  | 197 | -4 |
 | 01042-58 | 509  | 505 | -4 |
 | 03539-0  | 1959 | 1959 | -0 |
 
+| Gjendja | vjetër | Gjendja | re |
+| --------------- | --------------- | --------------- | --------------- |
+| 01042-53  | 197  | 03586-0  | 2665 |
+| 01042-58  | 509  | -------  | ---  |
+| 03539-0   | 1959 | -------  | ---  |
+| Gjithsej  | 2457 | Gjithsej | 2665 |
 
 
 # kerkesa
