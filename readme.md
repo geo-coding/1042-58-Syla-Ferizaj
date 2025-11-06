@@ -5,7 +5,7 @@
 201
 197
 -4
-Munirka (Avdija) Iseni 
+Munirka (Avdija) Iseni
 1005442415
 LIVADHET E GJATA
 Oborr           120
@@ -18,7 +18,7 @@ Nr.Ref: 644/2025
 505
 509
 +4
-Daut (Sahit) Hoxha 
+Daut (Sahit) Hoxha
 1018290983
 LIVADHET E GJATA
 Livadh (1)
@@ -31,22 +31,22 @@ Nr.Ref: 643/2025
 +0
 LIVADHET E GJATA
 Livadh (1)
-Barije (Smail) Sahiti 
+Barije (Smail) Sahiti
 1012289452
 LRP: Nr. 1711/2025
 Nr.Ref: 642/2025
 
 
-01042-53	197	    197/2665	Iseni (Avdija) Munirka 
-01042-58	509	    509/2665	Daut (Sahit) Hoxha 
-03539-0	    1959	1959/2665	Barije (Smail) Sahiti 
+01042-53	197	    197/2665	Iseni (Avdija) Munirka
+01042-58	509	    509/2665	Daut (Sahit) Hoxha
+03539-0	    1959	1959/2665	Barije (Smail) Sahiti
     	    2665	2665
 03586-0
 
 
-197/2665	Iseni (Avdija) Munirka 
-509/2665	Daut (Sahit) Hoxha 
-1959/2665	Barije (Smail) Sahiti 
+197/2665	Iseni (Avdija) Munirka
+509/2665	Daut (Sahit) Hoxha
+1959/2665	Barije (Smail) Sahiti
 
 
 
@@ -71,13 +71,12 @@ Nr.Ref: 642/2025
 
 ```
 296/2025
-811054981 
-N & S Roni SH.P.K. 
-+38344172037 
-Ferizaj 
-Rr. "Enver Topalli" 
-01042-53,01042-58
-03539-0
+811054981
+N & S Roni SH.P.K.
++38344172037
+Ferizaj
+Rr. "Enver Topalli"
+01042-53,01042-58,03539-0
 
 $ dyfishet
 168388,207216
