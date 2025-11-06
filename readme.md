@@ -1,25 +1,30 @@
 # parcelat
 
 ```
-P-72217092-01042-53
+01042-53
 201
 197
-+4
+-4
 LIVADHET E GJATA
 Oborr           120
 Shtëpi-Ndërtese 81
 Gjithsej:       201
 
-P-72217092-01042-58
+01042-58
+509
 505
-+4
+-4
 Daut (Sahit) Hoxha 
 1018290983
 LIVADHET E GJATA
 Livadh (1)
 
-P-72217092-03539-0
+03539-0
 1959
+1959
++0
+LIVADHET E GJATA
+Livadh (1)
 Iseni (Avdija) Munirka 
 1005442415
 
@@ -29,22 +34,36 @@ Iseni (Avdija) Munirka
 03539-0	    1959	1959/2665	Barije (Smail) Sahiti 
     	    2665	2665
 
-Barije (Smail) Sahiti 
-1012289452
 
 197/2665	Iseni (Avdija) Munirka 
 509/2665	Daut (Sahit) Hoxha 
 1959/2665	Barije (Smail) Sahiti 
 
 
-03539-0 
-Barije Sahiti 1/1;
-01042-53 
-Munirka Iseni 1/1 ; 
-01042-58 
-Daut Hoxha 1/1
 
-01042-53,01042-58,03539-0,
+```
+| nrParc | SipTxt | SipGraph | Dif |
+| --------------- | --------------- | --------------- | --------------- |
+| 01042-53 | 201  | 197 | -4 |
+| 01042-58 | 509  | 505 | -4 |
+| 03539-0  | 1959 | 1959 | -0 |
+
+
+
+# kerkesa
+
+```
+296/2025
+811054981 
+N & S Roni SH.P.K. 
++38344172037 
+Ferizaj 
+Rr. "Enver Topalli" 
+01042-53,01042-58
+03539-0
+
+$ dyfishet
+168388,207216
 
 ```
 
@@ -75,15 +94,4 @@ Daut Hoxha 1/1
 
 ```
 
-# kerkesa
 
-```
-296/2025
-811054981 
-N & S Roni SH.P.K. 
-+38344172037 
-Ferizaj 
-Rr. "Enver Topalli" 
-01042-53,01042-58,03539-0
-
-```
