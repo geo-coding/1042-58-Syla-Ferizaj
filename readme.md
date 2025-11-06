@@ -3,16 +3,31 @@
 ```
 P-72217092-01042-53
 201
+197
++4
 LIVADHET E GJATA
 Oborr           120
 Shtëpi-Ndërtese 81
 Gjithsej:       201
 
+P-72217092-01042-58
+505
++4
+Daut (Sahit) Hoxha 
+1018290983
+LIVADHET E GJATA
+Livadh (1)
+
+P-72217092-03539-0
+1959
 Iseni (Avdija) Munirka 
 1005442415
 
-Daut (Sahit) Hoxha 
-1018290983
+
+01042-53	197	    197/2665	Iseni (Avdija) Munirka 
+01042-58	509	    509/2665	Daut (Sahit) Hoxha 
+03539-0	    1959	1959/2665	Barije (Smail) Sahiti 
+    	    2665	2665
 
 Barije (Smail) Sahiti 
 1012289452
